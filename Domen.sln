@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{99CA08AF-3391-4AB0-B4A1-161D1376ABBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klijent", "Klijent\Klijent.csproj", "{3D7B993E-65FF-479C-B3DF-2F8587D336B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "WindowsFormsApp1\Server.csproj", "{D3A399EC-C80F-4249-8941-5E895FAA41BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CA08AF-3391-4AB0-B4A1-161D1376ABBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CA08AF-3391-4AB0-B4A1-161D1376ABBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CA08AF-3391-4AB0-B4A1-161D1376ABBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CA08AF-3391-4AB0-B4A1-161D1376ABBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7B993E-65FF-479C-B3DF-2F8587D336B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7B993E-65FF-479C-B3DF-2F8587D336B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7B993E-65FF-479C-B3DF-2F8587D336B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7B993E-65FF-479C-B3DF-2F8587D336B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A399EC-C80F-4249-8941-5E895FAA41BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A399EC-C80F-4249-8941-5E895FAA41BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A399EC-C80F-4249-8941-5E895FAA41BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A399EC-C80F-4249-8941-5E895FAA41BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52062E21-E91D-4247-AB24-46608C189CC6}
+	EndGlobalSection
+EndGlobal

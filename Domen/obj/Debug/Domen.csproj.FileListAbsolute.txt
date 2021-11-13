@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\Domen\Domen\bin\Debug\Domen.dll
+C:\Users\Korisnik\source\repos\Domen\Domen\bin\Debug\Domen.pdb
+C:\Users\Korisnik\source\repos\Domen\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Domen\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Domen\Domen\obj\Debug\Domen.dll
+C:\Users\Korisnik\source\repos\Domen\Domen\obj\Debug\Domen.pdb
